@@ -1,2 +1,2 @@
-142.251.220.35 translate.google.com
-142.251.220.35 translate.googleapis.com
+203.208.40.66 translate.google.com
+203.208.40.66 translate.googleapis.com
