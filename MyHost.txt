@@ -1,5 +1,5 @@
 104.21.20.53 appstorrent.ru
 
-103.96.150.135 www.zest.com
+103.96.150.135 www.zestadmin.com
 
 104.21.20.53 appstorrent.ru
